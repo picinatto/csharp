@@ -12,6 +12,7 @@ namespace Exercicio_Matriz
             int n = int.Parse(baseMatriz[0]);
             int m = int.Parse(baseMatriz[1]);
 
+            Console.WriteLine("Exercicio de matrizes");
 
             int[,] matriz = new int[n, m];
 
